@@ -295,10 +295,10 @@ header{
 #secret
 {
     position: fixed;
-    bottom: 20px;
-    right: 20px;
-    font-size: 5px;
-    padding: 1px;
+    bottom: 30px;
+    right: 30px;
+    font-size: 7px;
+    padding: 3px;
     background-color: #4de24241;
 }
 
