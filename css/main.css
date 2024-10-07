@@ -12,7 +12,7 @@ html{
 }
 body
 {
-    background-image: linear-gradient(to bottom, rgb(239, 229, 30), rgb(82, 163, 78));
+    background-color: rgb(139, 170, 186);
     height: 2500px;
 
     transition: transform 0.1s ease-out; /* 회전 애니메이션 */
@@ -106,7 +106,7 @@ header{
     text-align: center;
     letter-spacing: 0em;
     padding-top: 50px;
-    color: #4e0dff;
+    color: #000000;
     
     position: static;
     left: 0px;
@@ -120,7 +120,7 @@ header{
     line-height: normal;
     text-align: center;
     letter-spacing: 0em;
-    color: #763cfd;
+    color: #000000;
     
     position: static;
     left: 0px;
@@ -145,7 +145,7 @@ header{
     line-height: normal;
     text-align: center;
     letter-spacing: 0em;
-    color: #9c3cfd;
+    color: #000000;
     animation: shrinkmText 2s ease forwards; /* 애니메이션 적용 */
 }
 
@@ -165,7 +165,7 @@ header{
     line-height: normal;
     text-align: center;
     letter-spacing: 0em;
-    color: #b93cfd;
+    color: #000000;
     animation: shrinksText 4s ease forwards; /* 애니메이션 적용 */
 }
 
@@ -203,7 +203,7 @@ header{
 }
 .about:hover
 {
-    transform: scale(1.5);
+    transform: scale(1.3);
 }
 .face{
     left: 72px;
