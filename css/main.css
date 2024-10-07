@@ -324,7 +324,7 @@ input[type="checkbox"] {
     transform: translate(-50%, 50%);
     background-color: #f0f0f0;
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 2px solid #ccc;
     z-index: 2; /* 콘텐츠보다 위에 위치 */
 }
   
@@ -337,7 +337,7 @@ input[type="checkbox"]:checked + #hidden-text {
 
 @keyframes unhide {
     0% {
-        font-size: 1px; /* 초기 크기 */
+        font-size: 3px; /* 초기 크기 */
     }
     100% {
         font-size: 38px; /* 최종 크기 */
