@@ -297,8 +297,8 @@ header{
     position: fixed;
     bottom: 30px;
     right: 30px;
-    font-size: 2px;
-    padding: 1px;
+    font-size: 6px;
+    padding: 3px;
     background-color: #4de24241;
 }
 
